@@ -250,9 +250,7 @@ public class UserUI extends JFrame {
 		}
 		public void actionPerformed(ActionEvent e) {
 			frame.dispose();
-			//frame.setVisible(false);
 			JOptionPane.showMessageDialog(null, "Inscription cancel!", "Inscription cancel!", JOptionPane.CANCEL_OPTION);
-			//String name = JOptionPane.
 			
 		}
 	}
